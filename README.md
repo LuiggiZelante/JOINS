@@ -1,1 +1,3 @@
-# JOINS
+Utilização de JOINS, tais como:
+
+SELF JOIN - JOIN with USING - INNER JOIN - LEFT JOIN - RIGHT JOIN - FULL JOIN - CROSS JOIN
